@@ -1,6 +1,6 @@
 # Machine_Learning_with_Pytorch
 Model building and Optimization with Pytorch and Python  
-## Create Linear Regression Model using Pytorch 
+## Pytorch Project 001 Create Linear Regression Model using Pytorch 
 ### 1 Environment Configuration: Window 10 and Jyputer Notebook 
 ### 2 Libaries: Torch, torch.nn, torch.autograd, numpy
 ### 3 Steps
